@@ -4,6 +4,6 @@ This repository contains the ui.R and server.R files for the developed Shiny App
 
 The developed Shiny app for the the assignment is available at: https://uzmamahmood.shinyapps.io/capston_proj/
 
-The pitch presentation is available at: http://rpubs.com/uzma/capstoneproject
+The pitch presentation is available at: http://rpubs.com/uzma/capstoneproject1
 
 The source coude files and presentation files are available on the GitHub repo: https://github.com/uzmamahmood1/capstone_final2_proj
